@@ -1,5 +1,7 @@
-<h2 align="center">👋 Hi there 👋</h2>
-
+<div>
+  <h2 align="center">👋 Hi there 👋</h2>
+  <span>안녕하세요, 계속 배워나가는 김한중 입니다.</span>
+</div>
 <div align="center">
   <h2> ⚒️ Skills ⚒️ </h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
