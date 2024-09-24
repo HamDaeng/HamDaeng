@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </div>
-<img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue" color="#9999FF">
