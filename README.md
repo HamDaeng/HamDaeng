@@ -1,5 +1,5 @@
-<div>
-  <h2 align="center">👋 Hi there 👋</h2>
+<divalign="center">
+  <h2>👋 Hi there 👋</h2>
   <span>안녕하세요, 계속 배워나가는 김한중 입니다.</span>
 </div>
 <div align="center">
