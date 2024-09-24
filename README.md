@@ -21,5 +21,5 @@
 <br>
 <div align="center">
   <h2> 📒 Studying 📒 </h2>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
