@@ -1,4 +1,4 @@
-<divalign="center">
+<div align="center">
   <h2>👋 Hi there 👋</h2>
   <span>안녕하세요, 계속 배워나가는 김한중 입니다.</span>
 </div>
