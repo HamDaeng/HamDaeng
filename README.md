@@ -5,7 +5,7 @@
 <br>
 <div align="center">
   <h2> ⚒️ Skills ⚒️ </h2>
-  <b style="color:#4691e8; background-color:blue">Brity RPA</b>
+  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2?color=%234691e8">
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
