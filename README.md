@@ -1,4 +1,4 @@
-## 👋 Hi there 👋
+<h2 align="center">👋 Hi there 👋</h2>
 
 <div align="center">
   <h2> ⚒️ Skills ⚒️ </h2>
